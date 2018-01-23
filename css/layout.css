@@ -24,6 +24,10 @@
 
 /* Posititoning Classes */
 
+.wrapper {
+  
+}
+
 .col-1 { /*spans 1/3 of the space */
   float: left;
   width: 32%; /*this allows for a 2% margin between the columns */
