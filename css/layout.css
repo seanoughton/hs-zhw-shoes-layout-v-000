@@ -47,10 +47,6 @@
   margin-left: 0;
 }
 
-.test {
-  background-color: red;
-}
-
 #wrapper {
-  background-color: red;
+  background: red;
 }
