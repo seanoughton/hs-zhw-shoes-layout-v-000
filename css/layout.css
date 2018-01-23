@@ -30,7 +30,8 @@
 }
 
 .col-2 { /*spans 2/3 of the space */
-
+  float: left;
+  width: 66%; 
 }
 
 .col-3 {
