@@ -42,3 +42,7 @@
 .col-3 { /*spans across all of the space*/
 
 }
+
+[class*="col-"] {
+  margin: 2%;
+}
