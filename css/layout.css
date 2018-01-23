@@ -32,7 +32,7 @@
 
 .col-2 { /*spans 2/3 of the space */
   float: left;
-  width: 62.85%; /*this accounts for margin only on 1 side of the column */
+  width: 62.89%; /*this accounts for margin only on 1 side of the column */
 }
 
 .col-3 { /*spans across all of the space*/
