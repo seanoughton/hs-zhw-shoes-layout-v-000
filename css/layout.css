@@ -31,7 +31,7 @@
 
 .col-2 { /*spans 2/3 of the space */
   float: left;
-  width: 66%; 
+  width: 66%; /*this accounts for margin only on 1 side of the column */
 }
 
 .col-3 {
